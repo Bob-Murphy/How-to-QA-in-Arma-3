@@ -1,0 +1,5 @@
+.vscode/
+.github/
+
+#Ignore csv files that might be created locally as well as WIP files
+WIP-documents/
