@@ -5,11 +5,11 @@ This repository is fresh and WIP.
 I am creating this collection and semi-structured guide as, to my knowledge, nothing comparible is available and everybody has to re-invent the wheel for QA purposes, which is a complete waste of time and leads to different QA standards. My aim is to point out the most important +-80% of asset QA within Arma 3.
 
 This repository will contain guides on how to QA assets within Arma 3 for modders, testers and everybody else interested.
-- Weapon QA (done)
+- [Weapon QA (done)](https://github.com/Bob-Murphy/How-to-QA-in-Arma-3/wiki/Weapon-QA)
 - Vehicle QA (planned)
-  - Land vehicles
-  - Air vehicles
-  - Water vehicles
+  - Land vehicles (planned)
+  - Air vehicles (planned)
+  - Water vehicles (planned)
 - Gear QA (planned)
 - Building QA (planned)
 - Terrain QA (planned)
