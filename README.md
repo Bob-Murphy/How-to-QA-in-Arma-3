@@ -16,6 +16,7 @@ This repository will contain guides on how to QA assets within Arma 3 for modder
 
 In addition there will be test missions which will be created with Vanilla assets so they can be universally used with every mod and without the need to get additional content first.
 Currently there only is one test mission on Malden but hopefully also this will be expanded in the future.
+- [QA Asset Test Mission Malden](https://steamcommunity.com/sharedfiles/filedetails/?id=2866115223)
 
 If you would be willing to help me out, please open an issue and I'll reply there.
 
